@@ -1,4 +1,4 @@
-## Kalah Game
+## Kalah Project
 
 **Note** This repo is set up to run a continuous integration (CI) workflow on
 any **push to the `submission` branch** only (not to any other branch). It is
